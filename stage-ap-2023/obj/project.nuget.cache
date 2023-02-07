@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzvDoWhgL6HuU7r/phNXc+GTgf99NQNM5HA5l0qqNil1pEQRgy/9ygDOQas4Hp20TK9yD3p2ND+l9V6FJbuhjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sleur\\OneDrive\\Desktop\\stage-ap-2023\\stage-ap-2023\\stage-ap-2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sleur\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
